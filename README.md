@@ -1,6 +1,6 @@
-# info-project-website
+# Informatik Projekt: Fees Website
 
-## Concept
+## Konzept
 
 Personal website of Felicia. Photography?
 
@@ -9,6 +9,18 @@ Personal website of Felicia. Photography?
 - Kontakt (Socials)
 - Datenschutz
 - Impressum
+
+### Libraries
+
+- [FontAwesome](https://fontawesome.com/) (für Icons)
+- [Bootstrap](https://getbootstrap.com/) (Grid-system, CSS Klassen)
+
+### Page
+
+- Navigationsleiste mit Startseite/Home, Kontakt etc.
+- vll. Überschrift (von Seite abhängig)
+- Content (Text,Bilder etc.)
+- Fußleiste mit Impressum und Datenchutz
 
 ## License
 

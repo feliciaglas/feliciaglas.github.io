@@ -6,7 +6,7 @@ Personal website of Felicia. Photography?
 
 ### Features
 
-- Kontakt (Socials)
+- About (Socials)
 - Datenschutz
 - Impressum
 
@@ -17,7 +17,7 @@ Personal website of Felicia. Photography?
 
 ### Page
 
-- Navigationsleiste mit Startseite/Home, Kontakt etc.
+- Navigationsleiste mit Startseite/Home, About etc.
 - vll. Überschrift (von Seite abhängig)
 - Content (Text,Bilder etc.)
 - Fußleiste mit Impressum und Datenchutz

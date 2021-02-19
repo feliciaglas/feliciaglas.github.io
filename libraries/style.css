@@ -18,11 +18,10 @@ body {
 a {
   color: #000;
   text-decoration: none;
-  font-family: "Montserrat"
 }
 
 a:hover {
-  color: #666;
+  color: #8c96ab;
   text-decoration: none;
 }
 
@@ -36,7 +35,7 @@ a:hover {
 ***/
 
 .navbar-brand {
-  font-family: "Sacramento";
+  font-family: "Sacramento" !important;
   font-size: 35px;
 }
 
@@ -45,6 +44,7 @@ a:hover {
 }
 .navbar *, footer a {
   color: #fff;
+  font-family: "Montserrat";
 }
 .navbar a:hover, footer a:hover {
   color: #8c96ab;
@@ -104,11 +104,18 @@ a:hover {
   text-align: center;
 }
 
+/* Text über mich */
 .about-me {
   font-family: "Montserrat";
   font-size: 15px;
 }
 
+.viel-spaß {
+  font-family: "Sacramento" !important;
+  font-size: 30px;
+}
+
+/*Carousel margin und position*/
 .carousel {
   margin-left: 300px;
   margin-right: 300px;

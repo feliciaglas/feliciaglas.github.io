@@ -1,3 +1,4 @@
+/* --- Imports (Schriftarten) --- */
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
@@ -11,7 +12,7 @@ html {
 }
 
 body {
-  margin-bottom: 80px; /* Footer Höhe */
+  margin-bottom: 100px; /* Footer Höhe +20px */
 }
 
 a {
@@ -30,6 +31,8 @@ a:hover {
 /**
  *  Navbar
  *
+ *Schriftart
+ *Farbe background und hover (navbar und footer)
 ***/
 
 .navbar-brand {
@@ -38,13 +41,13 @@ a:hover {
 }
 
 .navbar, footer {
-  background-color: #8395a8;
+  background-color: #3f4259;
 }
 .navbar *, footer a {
   color: #fff;
 }
 .navbar a:hover, footer a:hover {
-  color: #ccc;
+  color: #8c96ab;
 }
 .dropdown-menu * {
   color: #000;
@@ -64,11 +67,11 @@ a:hover {
 }
 .footer-links { line-height: 50px; }
 .footer-copyright {
-  color: #444;
+  color: #222430;
 }
 
 /**
- *  Content
+ *  Content Homepage
  *
 ***/
 .text-welcome {
@@ -83,11 +86,11 @@ a:hover {
   text-align: center;
 }
 
-.text-categories {
-  font-family: "Montserrat";
-  font-size: 35px;
-  text-align: center;
-}
+/**
+ *  Content About-Seite
+ *
+ *Schriftarten und Größen
+***/
 
 .name-about {
   font-family: "Sacramento";
@@ -104,4 +107,29 @@ a:hover {
 .about-me {
   font-family: "Montserrat";
   font-size: 15px;
+}
+
+.carousel {
+  margin-left: 300px;
+  margin-right: 300px;
+  align-items: center;
+}
+
+
+/**
+ *  Content Galerie-Seite
+ *
+***/
+
+/* Rand des Grids in der Galerie */
+.galerie-grid {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Überschriften Kategorien Galerie */
+.text-categories {
+  font-family: "Montserrat";
+  font-size: 35px;
+  text-align: center;
 }

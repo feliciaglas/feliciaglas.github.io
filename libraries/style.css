@@ -33,7 +33,7 @@ a:hover {
 ***/
 
 .navbar-brand {
-  font-family: "Dancing Script";
+  font-family: "Sacramento";
   font-size: 35px;
 }
 
@@ -62,12 +62,35 @@ a:hover {
 ***/
 .text-welcome {
   font-family: "Montserrat";
-  font-size: 15px;
+  font-size: 25px;
   text-align: center;
 }
 
 .text-introduction {
   font-family: "Sacramento";
+  font-size: 50px;
+  text-align: center;
+}
+
+.text-categories {
+  font-family: "Montserrat";
+  font-size: 35px;
+  text-align: center;
+}
+
+.name-about {
+  font-family: "Sacramento";
   font-size: 40px;
   text-align: center;
+}
+
+.name-about2 {
+  font-family: "Montserrat";
+  font-size: 18px;
+  text-align: center;
+}
+
+.about-me {
+  font-family: "Montserrat";
+  font-size: 15px;
 }

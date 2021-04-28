@@ -6,6 +6,10 @@
 
 /* --- HTML OBJECTS --- */
 
+* {
+  scroll-behavior: smooth;
+}
+
 html {
   position: relative;
   min-height: 100%;

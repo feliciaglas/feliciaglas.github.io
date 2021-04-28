@@ -135,6 +135,7 @@ a:hover {
   font-size: 18px;
   text-align: center;
 }
+
 .text-about3 {
   font-family: "Montserrat";
   font-size: 22px;
@@ -150,6 +151,10 @@ a:hover {
 .viel-spaß {
   font-family: "Sacramento" !important;
   font-size: 30px;
+}
+
+.funfacts-text{
+  font-size: 22px
 }
 
 /*Carousel margin und position*/

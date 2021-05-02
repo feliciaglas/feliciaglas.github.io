@@ -136,15 +136,17 @@ a:hover {
   font-size: 30px;
 }
 
-.funfacts-text{
-  font-size: 22px
-}
 
 /*Carousel margin und position*/
 .carousel {
+  position: relative;
   margin-left: 300px;
   margin-right: 300px;
   align-items: center;
+}
+
+.funfacts-text{
+  font-size: 22px
 }
 
 

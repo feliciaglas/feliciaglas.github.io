@@ -169,7 +169,7 @@ a:hover {
 }
 
 /* Button nach oben */
-#scrollButton {
+#scroll-top-button {
     bottom: 10px;
     right: 20px;
     font-size: 20px;
@@ -180,6 +180,6 @@ a:hover {
     border-radius: 5px;
     display: none;
 }
-#scrollButton:hover {
+#scroll-top-button:hover {
   background-color: #8c96ab;
 }

@@ -179,6 +179,7 @@ a:hover {
     padding: 10px;
     border-radius: 5px;
     display: none;
+    z-index: 100;
 }
 #scroll-top-button:hover {
   background-color: #8c96ab;

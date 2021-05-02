@@ -140,11 +140,11 @@ a:hover {
 /*Carousel margin und position*/
 .carousel {
   align-items: center;
-  width: 75%;
+  width: 78%;
 }
 
 .funfacts-text{
-  font-size: 22px;
+  font-size: 2vw;
 }
 
 

@@ -80,27 +80,6 @@ a:hover {
  *
 ***/
 
-/*Quote auf Bild Homepage*/
-.quote {
-  font-family: "Sacramento";
-  font-size: 4.2vw;
-  position: absolute;
-  top: 18%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-  width: 100%;
-}
-
-.quote-name {
-  font-family: "Montserrat";
-  font-size: 2vw;
-  position: absolute;
-  top: 23%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  letter-spacing: 5px;
-}
 
 /*Text unter Bild*/
 .text-welcome {

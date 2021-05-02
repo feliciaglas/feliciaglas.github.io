@@ -165,3 +165,14 @@ a:hover {
   font-size: 35px;
   text-align: center;
 }
+
+/* Button nach oben */
+.button {
+    bottom: 100px;
+    right: 50px;
+    font-size: 20px;
+    background-color: #3f4259;
+    color: white;
+    padding: 15px;
+    border-radius: 4px;
+}

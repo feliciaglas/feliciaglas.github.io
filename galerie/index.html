@@ -21,7 +21,7 @@
     <!-- Start Navigationsleiste -->
     <nav class="navbar navbar-expand-lg">
       <a class="navbar-brand" href="/">Fees Website</a>
-      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
         <i class="fas fa-ellipsis-v"></i>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
@@ -31,7 +31,7 @@
           </li>
           <li class="nav-item active">
             <div class="dropdown">
-              <a class="dropdown-toggle nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="dropdown-toggle nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown">
                 Galerie
               </a>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
@@ -195,8 +195,9 @@
 <script>
 
 var scrollButton = document.getElementById("scroll-top-button");
+// in JQuery // var scrollButton = $("#scroll-top-button");
 
-// When the user scrolls down 20px from the top of the document, show the button
+// When the user scrolls down 1000px from the top of the document, show the button
 window.onscroll = function() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 1000) {
     scrollButton.style.display = "block";

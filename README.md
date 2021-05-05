@@ -20,7 +20,7 @@ Personal website of Felicia. Photography?
 - Navigationsleiste mit Startseite/Home, About etc.
 - vll. Überschrift (von Seite abhängig)
 - Content (Text,Bilder etc.)
-- Fußleiste mit Impressum und Datenchutz
+- Fußleiste mit Impressum und Datenschutz
 
 ## License
 
